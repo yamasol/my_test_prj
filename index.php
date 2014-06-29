@@ -6,47 +6,29 @@
 </head>
 <body>
 
-<!-- Feature  -->
-<header>Header</header>
+<!-- Feature  --><!-- Feature  -->
+<header>Header
+<h1>My Test Prj</h1>
+</header>
 
-<!-- Feature  -->
+<!-- Feature  --><!-- Feature  -->
 <div id='content'>
 
 <h1>My Test Prj</h1>
-<p>Prj</p>
-<p>Prj</p>
-<p>Prj</p>
-<p>Prj</p>
-<p>Prj</p>
-<p>Prj</p>
-<p>Prj</p>
-<p>Prj</p>
+<h1>My Test Prj</h1>
+<h1>My Test Prj</h1>
 
 
 
 </div>
 
 
-<!-- Feature  -->
-<footer>Footer</footer>
-
-<p>新功能</p>
-<p>新功能</p>
-<p>新功能</p>
-<p>新功能</p>
-<p>新功能</p>
-<p>新功能</p>
-<p>新功能</p>
+<!-- Feature  --><!-- Feature  -->
+<footer>Footer
+<h1>My Test Prj</h1>
+</footer>
 
 
-
-<p>新功能2</p>
-<p>新功能2</p>
-<p>新功能2</p>
-<p>新功能2</p>
-<p>新功能2</p>
-<p>新功能2</p>
-<p>新功能2</p>
 
 
 </body>
