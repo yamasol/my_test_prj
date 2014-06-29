@@ -9,27 +9,11 @@
 <!-- Feature  --><!-- Feature  -->
 <header>Header
 <h1>My Test Prj</h1>
-<h1>My Test Prj</h1>
-<h1>My Test Prj</h1>
-<h1>My Test Prj</h1>
-<h1>My Test Prj</h1>
-<h1>My Test Prj</h1>
-<h1>My Test Prj</h1>
-
 </header>
 
 <!-- Feature  --><!-- Feature  -->
 <div id='content'>
 
-<h1>My Test Prj</h1>
-<h1>My Test Prj</h1>
-<h1>My Test Prj</h1>
-<h1>My Test Prj</h1>
-<h1>My Test Prj</h1>
-<h1>My Test Prj</h1>
-<h1>My Test Prj</h1>
-<h1>My Test Prj</h1>
-<h1>My Test Prj</h1>
 <h1>My Test Prj</h1>
 <h1>My Test Prj</h1>
 <h1>My Test Prj</h1>
@@ -42,13 +26,6 @@
 <!-- Feature  --><!-- Feature  -->
 <footer>Footer
 <h1>My Test Prj</h1>
-<h1>My Test Prj</h1>
-<h1>My Test Prj</h1>
-<h1>My Test Prj</h1>
-<h1>My Test Prj</h1>
-<h1>My Test Prj</h1>
-<h1>My Test Prj</h1>
-
 </footer>
 
 
