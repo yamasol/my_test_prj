@@ -3,4 +3,5 @@ Damn
 
 branch prj is very gg
 
-func a(){...}
+func a(){a+b(c-d)=c}
+
