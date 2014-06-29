@@ -1,4 +1,4 @@
-my_test_prj
+my_test_prj is good
 ===========
 
 branch prj
