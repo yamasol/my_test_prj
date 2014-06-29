@@ -3,8 +3,10 @@ Damn
 
 branch prj is very gg
 
-func a(){...}
+func a(a){aaaaaaaaaaaaaaaaaa}
  
-func b(){...}
+
+func b(b){bbbbbbbbbbbbbbbbbb}
+
 
 func c(){...}
