@@ -1,4 +1,4 @@
-my_test_prj is good
+my_test_prj is not  good
 ===========
 
 branch prj
